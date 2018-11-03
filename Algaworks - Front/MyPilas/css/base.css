@@ -1,0 +1,18 @@
+html {
+    font-size: 62.5%; /* 10px */
+}
+
+body {
+    /* POSICIONAMENTO */
+
+    /* DISPLAY E BOX MODEL*/
+    margin: 0;
+
+    /* CORES */
+
+    /* TEXTO */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+
+    /* OUTROS */
+}
